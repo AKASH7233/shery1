@@ -81,7 +81,7 @@ body{
     font-size: 2vw;
     margin-top: 40px;
     letter-spacing: 4px;
-    pointer-events: all;
+    cursor:pointer;
 }
 .hero .heroright{
     display: flex;
