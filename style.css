@@ -69,14 +69,14 @@ body{
     position: absolute;
     top: 100%;
     left: 0;
-    font-family: "kajiro";
+    font-family: 'Vina Sans', sans-serif;
     font-size: 11vw;
     font-weight: 100;
     color: white;
     line-height: 1;
 }
 .heroleft button{
-    font-family: "kajiro";
+    font-family: 'Vina Sans', sans-serif;
     padding: 5px 32px;
     font-size: 2vw;
     margin-top: 40px;
